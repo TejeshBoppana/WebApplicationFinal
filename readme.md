@@ -3,10 +3,11 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 ## Screenshots
 # a) Postman listing all records.
-![Data_table_pycharm](./screenshots/a.png)
+![Data_table_pycharm](./screenshots/a.PNG)
+![Home_page](./screenshots/a1.PNG)
 
 # b)Postman showing one record with a get request.
-![Home_page](./screenshots/b.png)
+![Home_page](./screenshots/b.PNG)
 
 # c)Postman creating a record by showing the post request and the results in the record listing.
 ![Home_page](./screenshots/c.png)
