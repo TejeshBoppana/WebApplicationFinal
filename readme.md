@@ -4,7 +4,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ## Screenshots
 # a) Postman listing all records.
 ![Data_table_pycharm](./screenshots/a.PNG)
-![Home_page](./screenshots/a1.PNG)
+
 
 # b)Postman showing one record with a get request.
 ![Home_page](./screenshots/b.PNG)
